@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-Simongame/static/css/main.be1e0c36.css",
+    "main.js": "/my-Simongame/static/js/main.c660aa94.js",
+    "index.html": "/my-Simongame/index.html",
+    "main.be1e0c36.css.map": "/my-Simongame/static/css/main.be1e0c36.css.map",
+    "main.c660aa94.js.map": "/my-Simongame/static/js/main.c660aa94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1e0c36.css",
+    "static/js/main.c660aa94.js"
+  ]
+}
